@@ -1,0 +1,15 @@
+#1. Splitting th ephrase would be constant time complexity. The forloop would be linear time complexity. The comparison if statement would be constant time. That makes the worst case time complexity linear, Big O(n).
+
+#2. The time complexity of this function is is all constant time other than the forloop and the nested forloop. the forloop would be constant time then introducing the nested for loop makes the code quadratic time complexity. The worst case time complexity would be Big O(n²). 
+
+#3. The funtion calls for n to be multiplied in linear time complexity if n is not === 0. This is Big O(n).
+
+#4. The function gives access to the 1st index postion of the array and compares it to the bob. This is considered constant time complexity which is Big O(1).
+
+#5. The for loop and while loop both have a time complexity of linear time. The characters in the stacks are compared which is linear time. This makes the code a worst case  time complexity of Big O(n). 
+
+#6. The while loop iterates through until the variable i is equal to variable n. The if statement checks if n is divisble by i. which is constant time. This makes the worst case time complexity linear which is Big O(n).
+
+#7. Both forEach loops have seperate linear time complexity. Everything else is constant time. So the wosrt case time complexity is linear time which is Big O(n).
+
+#8. The function num iterates throught the loop checking if it should divide the num integer. So the time complexity is linear time, which is Big O(n).
